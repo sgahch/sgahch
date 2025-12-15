@@ -10,7 +10,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
 </p>
 <!--   my-header-img -->
-![header](https://github.com/sgahch/sgahch/raw/master/assets/images/header_.png) 
+<img src="https://raw.githubusercontent.com/sgahch/sgahch/master/src/header_.png" alt="Header" width="100%" /> 
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
